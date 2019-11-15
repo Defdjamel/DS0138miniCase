@@ -7,14 +7,16 @@ je vous invite a venir regarder mon tuto sur youtube en français sur ce projet 
  ![preview](case_with_battery.png?raw=true "Boitier 3D dso138 mini")
 
 
+4 parties:
 
-[top ](top.stl)
 
-[bottome ](bottom.stl)
+[Partie haute  ](top.stl)
+
+[Partie basse ](bottom.stl)
 
 [Boutton ](button.stl)
 
-[Support ](support.stl)
+[Support , socle ](support.stl)
 
 
 ### Requis Hardware: Sur aliexpress !
