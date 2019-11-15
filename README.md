@@ -20,7 +20,7 @@ je vous invite a venir regarder mon tuto sur youtube en français sur ce projet 
 ### Requis Hardware: Sur aliexpress !
 DSO138mini ->   http://bit.ly/2OtT2CT
 
-TP4046 -> http://bit.ly/2x27eKV
+TP4056 -> http://bit.ly/2x27eKV
 
 Baterrie 1000mAh -> http://bit.ly/2Kmgdzf
 
