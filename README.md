@@ -1,47 +1,32 @@
-# Je fabrique une Horloge neopixel sur Arduino Nano avec module RTC DS1307
+# Je monte et test pour vous l'oscilloscope  DS0 138 mini pour l’analyse de signaux logique ( port série sur arduino).
 
-je vous invite a venir regarder mon tuto sur youtube en français sur ce projet : https://youtu.be/_guPh8ymMVE
+je vous invite a venir regarder mon tuto sur youtube en français sur ce projet : https://youtu.be/VBzWMhBRZzc
  
- ## Preview
+ ## Boitier 3D a telecharger
  
- ![preview](preview_youtube.jpg?raw=true "preview projet horloge neo pixel")
-
-
-### Requis Logiciel
-* [Arduino IDE](https://www.arduino.cc) - arduino IDE
-* [le code source du projet ](clock_pixel_ds1307.ino) - Le code
-* [librarie FastLEd]( à ajouter directement depuis votre Arduino IDE)
-* [librarie ds1307]( à ajouter directement depuis votre Arduino IDE)
-
-### Requis Hardware: Sur aliexpress !
-Arduino Nano (at328/AT328P) ->  http://bit.ly/2WKxqZE
-
-Bande led WS2812 -> http://bit.ly/33rjrag
-
-horloage DS1307 -> http://bit.ly/2MvRqY8
-
-
-## montage 
-Schema de montage simplifié du projet
-![Schema ](plan_simplifié.png?raw=true "plan_simplifié.png")
-
-
-## cablage  des leds
-ici le schema des 37 leds en serie:
-![Schema ](Plan%20cablage%20led.png?raw=true "Plan cablage led.png")
-
-
-je vous invite a venir regarder mon tuto sur youtube en français sur ce projet : https://www.youtube.com/watch?v=_guPh8ymMVE&feature=youtu.be
 
 
 ## impression 3D
+ ![preview](case_with_battery.png?raw=true "Boitier 3D dso138 mini")
 impression en 3 parties: 
 
-[Case ](case.stl)
 
-[Cover ](cover.stl)
+[top ](case.stl)
 
-[Led cover ](led_cover.stl)
+[bottome ](cover.stl)
+
+[Boutton ](led_cover.stl)
+
+[Support ](led_cover.stl)
+
+
+### Requis Hardware: Sur aliexpress !
+DSO138mini ->  http://bit.ly/2WKxqZE
+
+TP4046 -> http://bit.ly/33rjrag
+
+Baterrie 1000mAh -> http://bit.ly/2MvRqY8
+
 
 
 ## Contribution
