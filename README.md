@@ -1,31 +1,28 @@
-# Je monte et test pour vous l'oscilloscope  DS0 138 mini pour l’analyse de signaux logique ( port série sur arduino).
+# Je monte et test pour vous l'oscilloscope  DS0 138 mini a 10 euro  pour l’analyse de signaux logique ( port série sur arduino).
 
 je vous invite a venir regarder mon tuto sur youtube en français sur ce projet : https://youtu.be/VBzWMhBRZzc
  
- ## Boitier 3D a telecharger
  
-
-
-## impression 3D
+##  Boitier 3D a télécharger
  ![preview](case_with_battery.png?raw=true "Boitier 3D dso138 mini")
-impression en 3 parties: 
 
 
-[top ](case.stl)
 
-[bottome ](cover.stl)
+[top ](top.stl)
 
-[Boutton ](led_cover.stl)
+[bottome ](bottom.stl)
 
-[Support ](led_cover.stl)
+[Boutton ](button.stl)
+
+[Support ](support.stl)
 
 
 ### Requis Hardware: Sur aliexpress !
-DSO138mini ->  http://bit.ly/2WKxqZE
+DSO138mini ->   http://bit.ly/2OtT2CT
 
-TP4046 -> http://bit.ly/33rjrag
+TP4046 -> http://bit.ly/2x27eKV
 
-Baterrie 1000mAh -> http://bit.ly/2MvRqY8
+Baterrie 1000mAh -> http://bit.ly/2Kmgdzf
 
 
 
